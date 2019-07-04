@@ -1,0 +1,11 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:digital-solutions-by-don/landingpage.git",
+  "author": "Donald Whitely <dswhitely1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
